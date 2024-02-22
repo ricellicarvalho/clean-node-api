@@ -1,0 +1,12 @@
+{
+  "name": "clean-node-api",
+  "version": "1.0.0",
+  "description": "NodeJS Rest API and GraphQL using TDD, Clean Architecture, Typescript and Design Patterns",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ricelli Carvalho",
+  "license": "ISC"
+}
